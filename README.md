@@ -555,18 +555,44 @@ I stumbled upon this image online by searching for 'Kirby PC background'. The or
 
 Here are all the modal components designed for creating, updating, and deleting each daily log, to-do, and calendar event.
 
+<img width="585" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/f0e91211-8979-47df-9e0b-c10a148a95d2"><br>
 
+<img width="370" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/0b77dff1-a4e3-4fb9-8d64-dcd7bb0a8eff"><br>
+
+<img width="368" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/180628c8-992e-47df-a86e-ee250feb8dde"><br>
+
+<img width="377" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/da4e91ca-2f3a-423e-9ca1-55eed3e21f30"><br>
+
+<img width="341" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/073d9321-32dd-4ca2-95d7-eb17a225355d"><br>
+
+<img width="341" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/2473152e-e012-4ecc-9f11-544963baa76c"><br>
+
+<img width="374" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/1d6bbb6b-31e7-4503-beab-76d0d11618b6"><br>
+
+<img width="371" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/2f4e0696-186e-47a1-8fe4-190104fee657"><br>
+
+<img width="376" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/0c8a8c27-ad8f-43c4-91f5-ab766afcaa86">
 
 ### Webpages Design
 
 Here are the 6 webpages I've designed for this web app, which I've named "Samudnote." The name is derived from "สมุดโน้ต," which means "notebook" in Thai. In Samudnote, users can take notes like a diary or journal, create to-do lists, and plan their tasks using the various features available. Additionally, users have the option to edit their profiles as needed.
 
+<img width="525" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/a606253e-4e49-44ed-94b9-a92685a10b49"><br>
 
+<img width="524" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/e03910c3-9c40-4536-a0b2-1a35ba415aa8"><br>
+
+<img width="514" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/49f191ea-a6e5-4dfa-8708-f68c9c5da24b"><br>
+
+<img width="514" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/4127e2fd-6b92-4b9d-a332-f50fc19e3456"><br>
+
+<img width="520" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/2ff3cbf1-1c69-4b0d-8bc5-28efbc01779d"><br>
+
+<img width="516" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/eacfb662-d6d5-41c5-af25-c6638d331d9f">
 
 ---
 
 Please feel free to share your feedback on my project. Thank you for your attention!
 
----
+P.S. You'll notice my fondness for Kirby characters, especially Meta Knight, LMAO. If you share my love for this adorable pink puffball and his friends, feel free to check out my drawings on Instagram @samudwaadkian for more content. I challenge myself to draw on Goodnotes, although using Procreate would be much better.
 
-P.S. You'll notice my affinity for Kirby characters, particularly Meta Knight, LMAO. If you share my love for this adorable pink puffball and his friends, feel free to check out my drawings on Instagram @samudwaadkian for more content. I'll be creating new ones whenever I find some free time.
+<img width="516" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/7310e88c-e173-444d-b0d1-1187aa239275">
