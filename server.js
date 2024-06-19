@@ -1044,8 +1044,6 @@ app.delete("/events/:id", (req, res) => {
   });
 });
 
-// filter ? ถ้าทำทันค่อยทำละกันนะ ไม่ได้บังคับ นี่เป็น feature เสริม
-
 // ---------------------- Cron Job ----------------------
 const cron = require("node-cron");
 
