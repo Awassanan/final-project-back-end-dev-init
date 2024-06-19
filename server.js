@@ -247,7 +247,7 @@ app.get("/logs", (req, res) => {
   if (!userId) {
     return res.status(400).send("Missing user_id parameter");
   } else if (!selectedDate) {
-    return res.status(400).send("Missing date parameter");
+    return res.status(400).send("Missing selected_date parameter");
   } else if (!/^\d{4}-\d{2}-\d{2}$/.test(selectedDate)) {
     console.error("Invalid date format. Please use YYYY-MM-DD.");
     return res.status(400).send("Invalid date format. Please use YYYY-MM-DD.");
