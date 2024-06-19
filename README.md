@@ -457,9 +457,35 @@ To test the API endpoints, you can use tools like Postman or write automated tes
 ## Future Plan
 - Add more features, such as filtering, searching by keyword, edit profile, and so forth.
 - Modify some database for future requirements support.
-- Frontend implementation followed by my [Components Library](https://github.com/Awassanan/final-project-back-end-dev-init/blob/main/UI.pdf) I've been designed.
+- Frontend implementation followed by my Components Library and Design Systems in my final section below.
 - Add automatically Unit tesing for all API endpoints using Jest and Supertest.
 - Integration testing between Frontend and Backend
+
+## Components Library
+### Color Palette
+| Color | Color Code |
+|-------|------------|
+| ![#FF21B3](https://via.placeholder.com/15/FF21B3/000000?text=+) | #FF21B3 |
+| ![#FF88D5](https://via.placeholder.com/15/FF88D5/000000?text=+) | #FF88D5 |
+| ![#FFB8E6](https://via.placeholder.com/15/FFB8E6/000000?text=+) | #FFB8E6 |
+| ![#FFE8F6](https://via.placeholder.com/15/FFE8F6/000000?text=+) | #FFE8F6 |
+| ![#FFB9B8](https://via.placeholder.com/15/FFB9B8/000000?text=+) | #FFB9B8 |
+| ![#FF8A89](https://via.placeholder.com/15/FF8A89/000000?text=+) | #FF8A89 |
+| ![#F65353](https://via.placeholder.com/15/F65353/000000?text=+) | #F65353 |
+| ![#007AFF](https://via.placeholder.com/15/007AFF/000000?text=+) | #007AFF |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
 
 ---
 
