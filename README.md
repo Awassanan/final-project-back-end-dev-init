@@ -7,6 +7,10 @@ Welcome to the Final Project Back-End Dev Init repository! This repository conta
 - Get logs and todos by user ID and selected date
 - Get events by user ID and selected date
 - Partial updates for logs, todos, and events
+- Scheduled Task Updates: Keeping Your App Current
+  - **Auto Change Todo Status:** Every 10 minutes, this job automatically updates the status of todos from "Pending" to "Past Due" once their due date has passed.
+  - **Auto Change Event Status to Current:** Similarly, every 10 minutes, when an event's start date arrives, this task switches its status from "Upcoming" to "Current".
+  - **Auto Change Event Status to Past:** Every 10 minutes, upon the conclusion of an event, this job adjusts its status from "Current" to "Past".
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
