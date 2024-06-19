@@ -462,6 +462,7 @@ To test the API endpoints, you can use tools like Postman or write automated tes
 - Integration testing between Frontend and Backend
 
 ## Components Library
+
 ### Color Palette
 | Color | Color Code |
 |-------|------------|
@@ -491,19 +492,81 @@ To test the API endpoints, you can use tools like Postman or write automated tes
 
 The primary font used in this project is **Itim-Regular**. Itim-Regular is chosen for its cute and playful appearance, perfectly aligning with the theme of the website. It also offers excellent support for both Thai and English characters, ensuring a consistent and delightful reading experience for all users.
 
-#### Font Sizes
+<img width="229" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/aa099fe8-d953-4d75-b24a-b303c7640cb3">
 
-| Font Size | Example |
-| --------- | ------- |
-| 12px      | <span style="font-family: 'Itim-Regular'; font-size: 12px;">Sample Text</span> |
-| 14px      | <span style="font-family: 'Itim-Regular'; font-size: 14px;">Sample Text</span> |
-| 16px      | <span style="font-family: 'Itim-Regular'; font-size: 16px;">Sample Text</span> |
-| 18px      | <span style="font-family: 'Itim-Regular'; font-size: 18px;">Sample Text</span> |
-| 20px      | <span style="font-family: 'Itim-Regular'; font-size: 20px;">Sample Text</span> |
-| 24px      | <span style="font-family: 'Itim-Regular'; font-size: 24px;">Sample Text</span> |
-| 36px      | <span style="font-family: 'Itim-Regular'; font-size: 36px;">Sample Text</span> |
-| 40px      | <span style="font-family: 'Itim-Regular'; font-size: 40px;">Sample Text</span> |
+### Icons
+
+In this components library, I initially used Apple Icon for design convenience. However, I plan to transition to using Bootstrap Icons for practicality and consistency.
+
+<img width="154" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/b40f57c6-1717-4bcc-a38e-263df14aa1b7">
+
+### Button
+
+I utilize both classic button UI elements from Bootstrap and also incorporate icons as buttons, as described alongside each icon.
+
+<img width="394" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/c7167da4-121d-4cdb-b70a-977a9c127fcc">
+
+### Fields
+
+My web application features various types of input fields, including standard text fields, password fields, text areas, and scrollable fields.
+
+<img width="469" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/452f16ca-cdaa-4c2d-bec6-3683e9e166c3">
+
+### Drop-down Lists
+
+The dropdown menu highlights the selected option in pink, while the remaining options are displayed in white.
+
+<img width="682" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/7c37a2e0-4470-4b07-82c2-9b0f40cb60fe">
+
+
+### Datetime picker
+
+I'll integrate the Bootstrap Datetime picker into my project and customize it to add a touch of cuteness. Today's date will be highlighted with a pink square background color, while the selected date will have a pink square border with no background color.
+
+<img width="539" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/f5558f98-2862-4218-91eb-f2bf0edbc508">
+
+
+### Check box
+
+In my design, I currently utilize the Apple Icon for the checkbox. However, I plan to transition to using Bootstrap checkbox UI elements instead.
+
+<img width="97" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/88d33f40-05e4-4604-b2a8-fb8deaefa076">
+
+### List Items
+
+The list items will serve as individual daily logs, to-dos, and calendar events, displayed as cards. For to-dos, I've designated five color variants to differentiate their status: yellow for low priority, orange for medium, light red for high, green for completed, and gray for past due. However, for calendar events, users will have the option to select from a palette of 12 different colors to distinguish their events throughout the month, which may span multiple days and potentially overlap.
+
+<img width="264" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/0205f59e-3e9f-4be0-9d74-2e53d1febeda">
+
+### Logo
+
+I roughly designed this logo using my Goodnotes 5 app. It's worth noting that all my designs thus far have been created using Goodnotes. I may refine this logo further using another program to enhance its visual appeal.
+
+<img width="332" alt="image" src="https://github.com/Awassanan/final-project-back-end-dev-init/assets/59548787/7d507d7b-d974-48d7-8f97-7eb18eb164af">
+
+
+### Background image
+
+I stumbled upon this image online by searching for 'Kirby PC background'. The original image can be found on this website: [ArtStation](https://www.artstation.com/artwork/3d8rKm). Please excuse the use of your images; they were just too adorable to resist!
+
+<img width="332" alt="image" src="https://cdna.artstation.com/p/assets/images/images/032/677/632/large/drone0-2.jpg?1607131856">
+
+### Modals
+
+Here are all the modal components designed for creating, updating, and deleting each daily log, to-do, and calendar event.
+
+
+
+### Webpages Design
+
+Here are the 6 webpages I've designed for this web app, which I've named "Samudnote." The name is derived from "สมุดโน้ต," which means "notebook" in Thai. In Samudnote, users can take notes like a diary or journal, create to-do lists, and plan their tasks using the various features available. Additionally, users have the option to edit their profiles as needed.
+
+
 
 ---
 
-Please feel free to suggest your feedback to my project. Thanks for watching!
+Please feel free to share your feedback on my project. Thank you for your attention!
+
+---
+
+P.S. You'll notice my affinity for Kirby characters, particularly Meta Knight, LMAO. If you share my love for this adorable pink puffball and his friends, feel free to check out my drawings on Instagram @samudwaadkian for more content. I'll be creating new ones whenever I find some free time.
