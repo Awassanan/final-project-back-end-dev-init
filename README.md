@@ -473,19 +473,36 @@ To test the API endpoints, you can use tools like Postman or write automated tes
 | ![#FF8A89](https://via.placeholder.com/15/FF8A89/000000?text=+) | #FF8A89 |
 | ![#F65353](https://via.placeholder.com/15/F65353/000000?text=+) | #F65353 |
 | ![#007AFF](https://via.placeholder.com/15/007AFF/000000?text=+) | #007AFF |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
-| ![#xxx](https://via.placeholder.com/15/xxx/000000?text=+) | #xxx |
+| ![#B7F2FF](https://via.placeholder.com/15/B7F2FF/000000?text=+) | #B7F2FF |
+| ![#BDFFB6](https://via.placeholder.com/15/BDFFB6/000000?text=+) | #BDFFB6 |
+| ![#FFF1B6](https://via.placeholder.com/15/FFF1B6/000000?text=+) | #FFF1B6 |
+| ![#FFD4B7](https://via.placeholder.com/15/FFD4B7/000000?text=+) | #FFD4B7 |
+| ![#FFE8E8](https://via.placeholder.com/15/FFE8E8/000000?text=+) | #FFE8E8 |
+| ![#FF8BA0](https://via.placeholder.com/15/FF8BA0/000000?text=+) | #FF8BA0 |
+| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | #000000 |
+| ![#636363](https://via.placeholder.com/15/636363/000000?text=+) | #636363 |
+| ![#AAAAAA](https://via.placeholder.com/15/AAAAAA/000000?text=+) | #AAAAAA |
+| ![#D2D2D2](https://via.placeholder.com/15/D2D2D2/000000?text=+) | #D2D2D2 |
+| ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | #FFFFFF |
+| ![#E3E3E3](https://via.placeholder.com/15/E3E3E3/000000?text=+) | #E3E3E3 |
+| ![#D20000](https://via.placeholder.com/15/D20000/000000?text=+) | #D20000 |
+
+### Typography
+
+The primary font used in this project is **Itim-Regular**. Itim-Regular is chosen for its cute and playful appearance, perfectly aligning with the theme of the website. It also offers excellent support for both Thai and English characters, ensuring a consistent and delightful reading experience for all users.
+
+#### Font Sizes
+
+| Font Size | Example |
+| --------- | ------- |
+| 12px      | <span style="font-family: 'Itim-Regular'; font-size: 12px;">Sample Text</span> |
+| 14px      | <span style="font-family: 'Itim-Regular'; font-size: 14px;">Sample Text</span> |
+| 16px      | <span style="font-family: 'Itim-Regular'; font-size: 16px;">Sample Text</span> |
+| 18px      | <span style="font-family: 'Itim-Regular'; font-size: 18px;">Sample Text</span> |
+| 20px      | <span style="font-family: 'Itim-Regular'; font-size: 20px;">Sample Text</span> |
+| 24px      | <span style="font-family: 'Itim-Regular'; font-size: 24px;">Sample Text</span> |
+| 36px      | <span style="font-family: 'Itim-Regular'; font-size: 36px;">Sample Text</span> |
+| 40px      | <span style="font-family: 'Itim-Regular'; font-size: 40px;">Sample Text</span> |
 
 ---
 
