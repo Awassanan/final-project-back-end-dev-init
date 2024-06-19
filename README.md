@@ -457,7 +457,7 @@ To test the API endpoints, you can use tools like Postman or write automated tes
 ## Future Plan
 - Add more features, such as filtering, searching by keyword, edit profile, and so forth.
 - Modify some database for future requirements support.
-- Frontend implementation followed by my Components Library I've been designed.
+- Frontend implementation followed by my [Components Library](https://github.com/Awassanan/final-project-back-end-dev-init/blob/main/UI.pdf) I've been designed.
 - Add automatically Unit tesing for all API endpoints using Jest and Supertest.
 - Integration testing between Frontend and Backend
 
