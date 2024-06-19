@@ -409,66 +409,6 @@ app.put("/logs/:id", (req, res) => {
   });
 });
 
-// // old approach
-// app.put("/logs/:id", (req, res) => {
-//   const logId = req.params.id;
-
-//   if (!logId) {
-//     console.error("Missing log_id parameter");
-//     return res.status(400).send("Missing log_id parameter");
-//   } else if (!req.body.user_id) {
-//     console.error("Missing user_id");
-//     return res.status(400).send("Missing user_id");
-//   } else if (!req.body.content) {
-//     console.error("Missing content");
-//     return res.status(400).send("Missing content");
-//   } else if (!req.body.date) {
-//     console.error("Missing date");
-//     return res.status(400).send("Missing date");
-//   }
-
-//   const foundLog = `SELECT * FROM daily_logs WHERE log_id = ? AND user_id = ?`;
-//   con.query(
-//     foundLog,
-//     [req.body.log_id, req.body.user_id],
-//     function (err, result) {
-//       if (err) {
-//         console.error(err.message);
-//         return res.status(500).send("Internal Server Error from finding log");
-//       }
-//       if (result.length === 0) {
-//         console.error("Log not found!");
-//         return res.status(404).send("Log not found!");
-//       }
-
-//       const updateLog = `UPDATE todofinalproj.daily_logs
-//       SET content = ?, date = ?, last_modified = ?
-//       WHERE log_id = ? AND user_id = ?;`;
-//       con.query(
-//         updateLog,
-//         [
-//           req.body.content,
-//           format(req.body.date, "yyyy-MM-dd HH:mm:ss"),
-//           mySQLDateTimeNow(),
-//           logId,
-//           req.body.user_id,
-//         ],
-//         function (err, result) {
-//           if (err) {
-//             console.error(err.message);
-//             return res
-//               .status(500)
-//               .send("Internal Server Error from creating new log");
-//           }
-//           res
-//             .status(201)
-//             .send("Log entry updated successfully, 1 record updated");
-//         }
-//       );
-//     }
-//   );
-// });
-
 // Delete log
 app.delete("/logs/:id", (req, res) => {
   const logId = req.params.id;
