@@ -242,13 +242,13 @@ app.post("/users/login", (req, res) => {
 // Get all Logs (per user per date)
 app.get("/logs", (req, res) => {
   const userId = req.query.user_id;
-  const date = req.query.date;
+  const selectedDate = req.query.selected_date;
 
   if (!userId) {
     return res.status(400).send("Missing user_id parameter");
-  } else if (!date) {
+  } else if (!selectedDate) {
     return res.status(400).send("Missing date parameter");
-  } else if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+  } else if (!/^\d{4}-\d{2}-\d{2}$/.test(selectedDate)) {
     console.error("Invalid date format. Please use YYYY-MM-DD.");
     return res.status(400).send("Invalid date format. Please use YYYY-MM-DD.");
   }
@@ -258,7 +258,7 @@ app.get("/logs", (req, res) => {
       DATE_FORMAT(created_at, '%Y-%m-%d %H:%i:%s') AS created_at, 
       DATE_FORMAT(last_modified, '%Y-%m-%d %H:%i:%s') AS last_modified
       FROM daily_logs WHERE user_id = ? AND date LIKE ?`;
-  con.query(logQuery, [userId, date + "%"], function (err, result) {
+  con.query(logQuery, [userId, selectedDate + "%"], function (err, result) {
     if (err) {
       console.error(err.message);
       return res.status(500).send("Internal Server Error from finding log");
